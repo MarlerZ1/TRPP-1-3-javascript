@@ -1,6 +1,8 @@
 First Change
 Second Change
 Thir Change
+Additional Change1
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
